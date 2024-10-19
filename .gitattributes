@@ -5,4 +5,4 @@
 *.css linguist-language=Java
 *.sql linguist-language=Java
 *.uml linguist-language=Java
-*.png linguist-language=Java
+*.png linguist-language=Markdown
