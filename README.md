@@ -1,6 +1,8 @@
 - I am TJ
 - CREATED BY [CGITJ](https://github.com/CGITJ)
 - 请遵守GPL开源协议，切勿滥用盈利！
+- For：
+- Notion，Obsidian，Flomo，Craft，石墨，幕布，飞书，语雀
 
 # 贡献导引
 请严格按照以下步骤操作，如有任何问题，请提出 issue
